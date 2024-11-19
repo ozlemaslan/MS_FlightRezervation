@@ -1,0 +1,12 @@
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\bin\Debug\net8.0\Rezervation.Shared.deps.json
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\bin\Debug\net8.0\Rezervation.Shared.dll
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\bin\Debug\net8.0\Rezervation.Shared.pdb
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.AssemblyInfoInputs.cache
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.AssemblyInfo.cs
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.csproj.CoreCompileInputs.cache
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.sourcelink.json
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.dll
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\refint\Rezervation.Shared.dll
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\Rezervation.Shared.pdb
+C:\MyProject\MS_FlightRezervation\FlightRezervation\Rezervation.Shared\obj\Debug\net8.0\ref\Rezervation.Shared.dll
