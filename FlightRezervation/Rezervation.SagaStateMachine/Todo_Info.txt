@@ -1,0 +1,15 @@
+﻿#Öncelikle yapılacak işlemlerin akışı:
+
+----- İlk durum ----
+Saga da herbir iş akışını temsil eden corelationId değeri vardır. Bu değer ile aynı iş akışları takip edilebilir.
+Burada CorelationId miz RezervationId olabilir. Her eventin içinde olup bu rezervasyon id ile iş akışlarının kontrolü sağlanır.
+Mesela uçak rezerve ettiği RezervationId değeri 123, sonra hostel rezerve ederken kullanacağı RezervationId değeri de 123 olmalıdır ki aynı iş akışı olduğu anlaşılsın.
+
+
+1.Uçak bileti rezerve işlemi başlatılacak.
+2.Uçak bileti rezerve edilecek. Eğer hata alınırsa reverze edilmeyecek.
+3.Hostel rezervasyonu başlatılacak.
+4.Hostel rezerve edilecek.  Eğer hata alınırsa reverze edilmeyecek.
+5.Aksi durumlarda işlemler geriye alınacak.(NotRezervated lar veya yeni bir event te olabilir.)
+-------------------
+FlightRezervationStarted -> FlightRezervated -> HostelRezervationStarted -> HostelRezervated

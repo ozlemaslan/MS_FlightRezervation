@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Rezervation.HostelAPI.Controllers.HostelController",
+    "Method": "CreateHostelRezervation",
+    "RelativePath": "api/Hostel",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -53,6 +53,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -139,6 +143,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
